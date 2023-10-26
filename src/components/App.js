@@ -24,7 +24,6 @@ const App = () => {
       </div>
     );
   }
-
   if (tours.length === 0) {
     return (
       <div className="loading">
